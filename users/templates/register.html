@@ -1,0 +1,30 @@
+{% extends 'bases/pattern.html' %}
+{% load static %}
+{% block 'head' %}
+    <link href = "{% static 'users/css/users.css' %}" rel="stylesheet">
+{% endblock %}
+
+{% block 'body' %}
+
+    <div class="container-fluid bg-inscricao">
+        
+        <div class="row">
+            <div class="col-md">
+                <h3 class="logo"><a style="text-decoration: none; color:white;"; href = {% url 'home' %}>Type.Event</a></h3>
+
+                {% include 'partials/users/register.html' %}
+
+                <div class = 'logo_inferior_esquerdo'>
+                <img src="{% static 'general/img/logo_evento.png' %}" class="logo-evento">
+                </div>
+                
+            </div>
+
+            <div class="col-md bg-img">
+            
+            </div>
+        
+        </div>
+    </div>
+
+{% endblock %}
