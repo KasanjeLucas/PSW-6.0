@@ -1,0 +1,18 @@
+.fundo-pagina-2{
+    background-image: url('/static/users/img/bg_2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 208vh;
+    height: 597px;
+}
+
+.logo_central {
+    height: 590px;
+    width: 530px;
+    position: relative;
+    left: 400px;
+    right: 400px;
+    top: 5px
+}
