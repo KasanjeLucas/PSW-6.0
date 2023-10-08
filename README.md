@@ -9,10 +9,10 @@ In future, I intend to become better at these, but for the moment, I'm focusing 
 
 
 ## About the project
-This an event system that generate certificates and csv files that show who were the participants of the event.
+This is an event system that generate certificates and csv files that show who were the participants of the event.
 
 ## Installation
-To run this code, you'll need a setup. This one is summed up on the file [requirements][df1].
+To run this code, you'll need a setup. This one is summed up on the file [requirements].
 
 To install this in your system, first I recommend you to create an virtual enviroment (venv). To do this, just write on your terminal:
 
