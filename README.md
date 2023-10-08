@@ -1,5 +1,5 @@
 # PSW-6.0
-This a project study that I made on a weekly event created by the Pythonando company, named as PyStack Week 6.0.
+This is a project study that I made on a weekly event created by the Pythonando company, named as PyStack Week 6.0.
 
 
 ## Goals
